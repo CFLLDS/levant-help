@@ -52,3 +52,55 @@
 .md-typeset ul li {
   margin-bottom: 0.35em;
 }
+
+/* Top-level sections as bold tabs */
+.md-tabs {
+  background: #1a322b;
+  border-bottom: 3px solid #b8923f;
+}
+
+.md-tabs__link {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 600;
+  font-size: 0.84rem;
+  opacity: 0.75;
+  margin-top: 0.7rem;
+}
+
+.md-tabs__item--active .md-tabs__link,
+.md-tabs__link:hover {
+  opacity: 1;
+  color: #e6c878;
+}
+
+/* Section title at the top of the side menu */
+.md-nav--primary > .md-nav__list > .md-nav__item--active > .md-nav__link,
+.md-nav--lifted > .md-nav__list > .md-nav__item--active > .md-nav__link {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #1f2f2a;
+  border-left: 4px solid #b8923f;
+  padding-left: 0.5rem;
+  margin-bottom: 0.4rem;
+}
+
+/* Home page section cards */
+.md-typeset .grid.cards > ul > li {
+  background: #fffdf8;
+  border: 1px solid #e2dac6;
+  border-top: 5px solid #24433a;
+  border-radius: 12px;
+  padding: 1.1rem 1.2rem;
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  border-color: #b8923f;
+  border-top-color: #b8923f;
+}
+
+.md-typeset .grid.cards > ul > li > p:first-child strong {
+  font-family: "Fraunces", Georgia, serif;
+  font-size: 1.25rem;
+  color: #1f2f2a;
+}
