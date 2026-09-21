@@ -1,0 +1,51 @@
+site_name: Levant Help Centre
+site_description: How to use the Levant portal and Energy Confidence tools. For advisers, volunteers and coordinators at delivery partners.
+copyright: "&copy; LDS Consulting Limited trading as LDS Consultancy"
+
+theme:
+  name: material
+  language: en
+  font:
+    text: Manrope
+    code: JetBrains Mono
+  palette:
+    scheme: levant
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+  icon:
+    logo: material/lightbulb-on-outline
+
+extra_css:
+  - assets/levant.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Households and visits:
+      - households-and-visits/index.md
+      - Find a household: households-and-visits/find-a-household.md
+      - Book a visit: households-and-visits/book-a-visit.md
+      - Move or cancel a visit: households-and-visits/move-or-cancel-a-visit.md
+      - Bring a new household on board: households-and-visits/new-household.md
+      - Refer a job to the handyperson: households-and-visits/handyperson-referral.md
+      - Return a call back: households-and-visits/call-backs.md
+      - Check consent: households-and-visits/check-consent.md
+      - End a case: households-and-visits/end-a-case.md
+      - Quick answers: households-and-visits/quick-answers.md
