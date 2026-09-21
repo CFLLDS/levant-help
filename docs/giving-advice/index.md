@@ -4,6 +4,32 @@ The Levant portal tells you who to talk to, what to talk about, and what the met
 
 You reach it from the **Portal** link in the bar at the top of any page.
 
+## Support mode: your guide on the page
+
+<figure class="help-video">
+  <video controls preload="none" playsinline poster="../assets/video/clip-03-support-mode.jpg">
+    <source src="../assets/video/clip-03-support-mode.mp4" type="video/mp4">
+    Your browser cannot play this video. Read the transcript below.
+  </video>
+  <figcaption>Support mode · 45 seconds</figcaption>
+</figure>
+
+??? note "Read the transcript"
+    Support mode is your guide on the page. Here it's switched off, and the advice file looks as it always has.
+
+    Select it once and it turns on. Now, next to each section, you'll see a green strip. How to use this opens the matching page of the help centre in a new tab, so you never lose your place.
+
+    Beside it is a reference to your NEA Level 3 Energy Awareness manual, by element and page. Where the portal shows a figure that rests on energy knowledge and not only on the meter, this tells you where to find that knowledge in your own copy.
+
+    Support mode stays on as you move between tabs and households. Leave it on while you're learning. Turn it off when you no longer need it.
+
+1. Open any household's advice file.
+2. At the end of the tab bar, select **Support mode**. It changes to **Support mode: on**.
+3. Beside each section you now see a green strip. **How to use this** opens the matching page of this help centre in a new tab. Next to it is the element and page of your Level 3 Energy Awareness manual that covers the knowledge behind that section.
+4. Support mode stays on as you move between tabs and households. Select it again to turn it off.
+
+You can also select **Support** at the top right of any portfolio to reach these guides and the assistant.
+
 ## The shape of a session
 
 | Step | What you do | Guide |
