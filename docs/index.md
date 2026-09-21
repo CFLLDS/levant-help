@@ -38,6 +38,7 @@ How to run a working session: who to contact, how to prepare, how to make contac
 | Explain a quiet spell on the meter | [Time away](giving-advice/time-away.md) |
 | Send a resident their summary | [Evidence and the resident summary](giving-advice/evidence-and-resident-summary.md) |
 | Understand a card or a number | [What the figures mean](giving-advice/what-the-figures-mean.md) |
+| Find the matching part of my Level 3 course | [Where this sits in your Level 3](giving-advice/course-map.md) |
 
 ## Households and visits
 
