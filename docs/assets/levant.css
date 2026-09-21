@@ -126,3 +126,29 @@
 .md-typeset .admonition.course ul {
   font-size: 0.72rem;
 }
+
+/* Training videos */
+.md-typeset .help-video {
+  margin: 1.2em 0 0.6em;
+  max-width: 100%;
+  width: 100%;
+}
+
+.md-typeset .help-video video {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  background: #1a322b;
+  border: 1px solid #e2dac6;
+  border-radius: 12px;
+}
+
+.md-typeset .help-video figcaption {
+  font-size: 0.7rem;
+  color: #4a5a54;
+  margin-top: 0.5em;
+  text-align: left;
+  max-width: none;
+  font-style: normal;
+}
