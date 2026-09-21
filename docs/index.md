@@ -19,9 +19,20 @@ The page where day-to-day housekeeping happens. Start with the [tour of the page
 | See which homes are not sending data | [Check consent](households-and-visits/check-consent.md) |
 | Stop working with a household | [End a case](households-and-visits/end-a-case.md) |
 
-## Coming next
+## Giving advice with the portal
 
-Guides to the adviser portal: your portfolios, a household's advice file, and preparing for a call.
+How to run a working session: who to contact, how to prepare, how to make contact and how to record it. Start with [the shape of a session](giving-advice/index.md).
+
+| I want to | Guide |
+|---|---|
+| See which households need me today | [Who to contact first](giving-advice/who-to-contact-first.md) |
+| Get ready for a call or visit | [Prepare for a call or visit](giving-advice/prepare-for-a-call.md) |
+| Phone or text a resident | [Make contact](giving-advice/make-contact.md) |
+| Log a call, visit or survey | [Record what happened](giving-advice/record-what-happened.md) |
+| Correct what the portal knows about a home | [Property details](giving-advice/property-details.md) |
+| Explain a quiet spell on the meter | [Time away](giving-advice/time-away.md) |
+| Send a resident their summary | [Evidence and the resident summary](giving-advice/evidence-and-resident-summary.md) |
+| Understand a card or a number | [What the figures mean](giving-advice/what-the-figures-mean.md) |
 
 ## Need a hand?
 
