@@ -32,6 +32,8 @@ markdown_extensions:
       permalink: true
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 plugins:
   - search
@@ -49,3 +51,16 @@ nav:
       - Check consent: households-and-visits/check-consent.md
       - End a case: households-and-visits/end-a-case.md
       - Quick answers: households-and-visits/quick-answers.md
+  - Giving advice:
+      - giving-advice/index.md
+      - Your portfolios: giving-advice/your-portfolios.md
+      - Who to contact first: giving-advice/who-to-contact-first.md
+      - The advice file: giving-advice/the-advice-file.md
+      - Prepare for a call or visit: giving-advice/prepare-for-a-call.md
+      - Make contact: giving-advice/make-contact.md
+      - Record what happened: giving-advice/record-what-happened.md
+      - Property details: giving-advice/property-details.md
+      - Time away: giving-advice/time-away.md
+      - Evidence and the resident summary: giving-advice/evidence-and-resident-summary.md
+      - What the figures mean: giving-advice/what-the-figures-mean.md
+      - The assistant and support: giving-advice/assistant-and-support.md
