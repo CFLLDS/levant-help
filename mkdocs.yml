@@ -11,6 +11,8 @@ theme:
   palette:
     scheme: levant
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
     - navigation.footer
@@ -27,6 +29,7 @@ extra_css:
 markdown_extensions:
   - admonition
   - attr_list
+  - md_in_html
   - tables
   - toc:
       permalink: true
@@ -40,17 +43,6 @@ plugins:
 
 nav:
   - Home: index.md
-  - Households and visits:
-      - households-and-visits/index.md
-      - Find a household: households-and-visits/find-a-household.md
-      - Book a visit: households-and-visits/book-a-visit.md
-      - Move or cancel a visit: households-and-visits/move-or-cancel-a-visit.md
-      - Bring a new household on board: households-and-visits/new-household.md
-      - Refer a job to the handyperson: households-and-visits/handyperson-referral.md
-      - Return a call back: households-and-visits/call-backs.md
-      - Check consent: households-and-visits/check-consent.md
-      - End a case: households-and-visits/end-a-case.md
-      - Quick answers: households-and-visits/quick-answers.md
   - Giving advice:
       - giving-advice/index.md
       - Your portfolios: giving-advice/your-portfolios.md
@@ -64,3 +56,14 @@ nav:
       - Evidence and the resident summary: giving-advice/evidence-and-resident-summary.md
       - What the figures mean: giving-advice/what-the-figures-mean.md
       - The assistant and support: giving-advice/assistant-and-support.md
+  - Households and visits:
+      - households-and-visits/index.md
+      - Find a household: households-and-visits/find-a-household.md
+      - Book a visit: households-and-visits/book-a-visit.md
+      - Move or cancel a visit: households-and-visits/move-or-cancel-a-visit.md
+      - Bring a new household on board: households-and-visits/new-household.md
+      - Refer a job to the handyperson: households-and-visits/handyperson-referral.md
+      - Return a call back: households-and-visits/call-backs.md
+      - Check consent: households-and-visits/check-consent.md
+      - End a case: households-and-visits/end-a-case.md
+      - Quick answers: households-and-visits/quick-answers.md
