@@ -6,15 +6,26 @@ This tab holds the detail behind the advice. You do not need all of it for every
 
 Each card is labelled **Measured**, **Modelled** or **Scenario**. See [how far to trust a figure](index.md#how-far-to-trust-a-figure).
 
+The portal does the measuring. Your City & Guilds Level 3 Award in Energy Awareness (6281-01) gives you the knowledge to turn a figure into advice. Under each card below, **In your Level 3 manual** points to the part of the Candidate Assessment Reference Manual that covers it. Page numbers are the printed ones in version 1.4 (May 2025). See also [the full course map](course-map.md).
+
 ## Energy through the year
 
 A chart of electricity, gas, carbon and outside temperature, by year, quarter or month. Look for the shape: gas should rise as the temperature falls. A flat gas line through a cold spell is worth asking about.
+
+!!! course "In your Level 3 manual"
+    - Element 1, *Movement of heat*, p2: how heat moves by radiation, convection and conduction, which is why demand rises as the weather turns.
+    - Element 5, *Smart meters*, p56 to 59: where these readings come from, what the in-home display shows, and the resident's control over their data.
 
 ## What this home pays
 
 The rates being used and where they came from. See [Property details](property-details.md).
 
 Where the home is on the price cap, the card says roughly how the bill will move when the cap next changes. Where it is on a fixed deal, remember the deal will end.
+
+!!! course "In your Level 3 manual"
+    - Element 4, *Interpret domestic fuel cost data*, p48 onwards: unit rates and standing charges.
+    - Element 5, *How to calculate the cost of electricity*, p62 to 65, and *How to calculate the cost of gas*, p66 to 67: the same sum the portal does, so you can check a figure against a bill by hand.
+    - Element 6, *Types of tariff*, p73: standard variable tariffs and the Ofgem price cap.
 
 ## Electricity and gas tariff comparison
 
@@ -25,15 +36,29 @@ Where the home is on the price cap, the card says roughly how the bill will move
 - "**Priced on 5% of cost**", or any low percentage, means most of the year could not be priced. Treat the comparison as unreliable and do not quote it.
 - These are indicative, not quotes. For a home with part-year data, the figures cover the period recorded.
 
+!!! course "In your Level 3 manual"
+    - Element 6, *Types of tariff*, p73 to 75: standard variable, time of use, prepayment, fixed term and green tariffs, with the benefits and drawbacks of each.
+    - Element 6, *The main issues to consider before switching fuel supplier*, p80 to 84. Read this before any conversation about switching.
+    - Element 6, *Interpret and explain the information on gas and electricity bills*, p72: includes the Cheapest Tariff Message a supplier must print on the bill.
+
 ## Usage by daypart
 
 *Measured.* Electricity split into overnight, morning, working day and evening. A heavy overnight share can point to electric heating, an electric vehicle, or night-time activity. A heavy evening share means a time-of-use tariff is unlikely to help.
+
+!!! course "In your Level 3 manual"
+    - Element 6, *Time of Use*, p74: how Economy 7 and Economy 10 work, and the rule of thumb for how much use needs to fall at night before they pay.
+    - Element 2, storage heater controls, p25 to 26: input and output settings, the usual reason for a heavy overnight load.
+    - Element 5, *Variable / dual rate electricity meters*, p55.
 
 ## Weather-adjusted annual usage
 
 *Modelled.* What the home would use in a typical year, with the effect of a mild or harsh winter removed. This is the fair figure for comparing one year with another.
 
 "Weather explains 90% of the variation in gas use" means heating follows the weather closely, which is what you expect from a home heated by gas. A low figure means something else drives the use.
+
+!!! course "In your Level 3 manual"
+    - Element 7, *The main areas of fabric heat loss* and *unwanted ventilation heat loss*, p86: why heating demand follows the weather.
+    - Element 7, *Standard Assessment Procedure (SAP)*, p101: SAP assumes standard occupancy and heating. The portal shows what this household actually used. Expect the two to differ.
 
 ## Where the carbon goes
 
@@ -47,6 +72,12 @@ Where the home is on the price cap, the card says roughly how the bill will move
 - **Humidity at or above 65%** for long periods is the level at which mould grows. Damp is a housing problem the meter cannot see, so ask about it.
 - Check the number of days measured and the time of year before drawing conclusions. A few warm weeks say little about winter.
 
+!!! course "In your Level 3 manual"
+    - Element 2, *Recommended temperatures*, p20: the 18 to 24°C range, 21°C for a living room, and why older people may not feel cold at temperatures that are already harming them.
+    - Element 3, *The optimum room temperatures to aim for*, p41: 21°C in the main living room and 18°C elsewhere, and the hours of heating the fuel poverty standard assumes.
+    - Element 9, *Condensation dampness*, p128: relative humidity explained. Note that the manual quotes the Building Research Establishment figure of 70% for long periods as the point where mould spreads. The portal flags days from 65%, which is earlier.
+    - Element 9, *Dealing with moisture in the air*, *Ventilation*, *Heating* and *Insulation*, p129 to 133: the four things to work through with the resident.
+
 ## Cost to heat the home
 
 *Modelled.* The estimated yearly cost of holding the home at each temperature from 15°C to 22°C, from the home's own heat loss and local weather. "Now" marks the temperature the home appears to average.
@@ -58,6 +89,12 @@ If the card says the costs are **withheld** or **not yet checked**, only the dif
 !!! warning "Never advise anyone to be cold"
     This card exists to help residents who are under-heating see what comfort would cost, and to find help with that cost. It is not a tool for persuading anyone to turn the heating down below a healthy temperature.
 
+!!! course "In your Level 3 manual"
+    - Element 3, p41: healthy temperatures. This is the line you hold.
+    - Element 2, room thermostats and thermostatic radiator valves, p24, and programmers, p30 to 39: how to get the temperature the resident wants without waste. Programmer sets when, thermostat sets how warm.
+    - Element 3, *The relevance of the warming up and cooling down periods*, p43: for advice on timing.
+    - Element 9, *Heating*, p132: why under-heating and intermittent heating bring condensation.
+
 ## Heat pump what-if and Solar what-if
 
 *Scenario.* Changes the home has not made.
@@ -68,6 +105,12 @@ If the card says the costs are **withheld** or **not yet checked**, only the dif
 
 Raise these as possibilities. Anyone interested should speak to a qualified installer or a specialist adviser before deciding.
 
+!!! course "In your Level 3 manual"
+    - Element 8, *Boiler Upgrade Scheme*, p117 to 118: grants for heat pumps and what qualifies.
+    - Element 8, *Smart Export Guarantee (SEG)*, p116: how a home with solar is paid for what it exports, and *Feed-in Tariffs*, p117, for older installations.
+    - Element 1, *Boilers and flues*, p15 to 18, and solar water heating, p14: the existing system you are comparing against.
+    - Element 8, p104 onwards: the current schemes and who is eligible, including ECO and the Great British Insulation Scheme (p108 to 112) and Warm Homes: Local Grant (p113). Schemes change, so check they are still open.
+
 ## Warmth when it counts
 
 *Measured and modelled.* Compares the gas actually burned for heating with what the building needs in cold weather, and shows how much of that heat arrives while someone is up and about.
@@ -75,6 +118,12 @@ Raise these as possibilities. Anyone interested should speak to a qualified inst
 A low percentage can mean under-heating. It can also mean another heat source the meters cannot see, such as a wood burner, or a wrong floor area on record. Ask before you assume.
 
 Where a home has a battery, this card cannot be worked out and says so.
+
+!!! course "In your Level 3 manual"
+    - Element 7, insulation and draughtproofing, p87 to 99: walls, windows and doors, roof, floors and the hot water cylinder.
+    - Element 7, *Typical payback periods*, p100: the cheap measures that pay back fastest. Several are on the [handyperson job list](../households-and-visits/handyperson-referral.md).
+    - Element 3, p41: what adequate warmth means.
+    - Element 2, *The checks that are needed if a domestic heating system does not work*, p39.
 
 ## Wellbeing pattern
 
@@ -87,6 +136,10 @@ Where a home has a battery, this card cannot be worked out and says so.
 | Shift | The routine has changed and matches none of the usual patterns |
 | High | Much more use than usual. Check nothing has been left on |
 | Unmonitorable | Solar or a battery hides the pattern. Rely on contact |
+
+!!! course "In your Level 3 manual"
+    - Element 2, *Recommended temperatures*, p20, and Element 3, p41: the link between cold homes and health, which is why a changed routine matters.
+    - Element 6, *The ways of paying off gas and electricity debt* and the organisations that give specialist advice, p79: for when the conversation turns to money worries.
 
 ## Trend & risk
 
@@ -104,8 +157,17 @@ It also estimates the share of a day's electricity that could move to cheaper ho
 
 A single odd day is not a welfare event. Look for changes that have lasted.
 
+!!! course "In your Level 3 manual"
+    - Element 5, *Electricity consumption and running cost*, p68: watts to kilowatts to kilowatt-hours, and how to cost an appliance over time. Use it to put a price on an always-on load: watts, divided by 1,000, times 24 hours, times the unit rate.
+    - Element 6, *Time of Use*, p74: whether moving use to cheaper hours is realistic for this household.
+
 ## Devices in this home
 
 *Modelled.* Large loads recognised from the pattern of use, and equipment registered for the home, such as an electric vehicle charger, solar panels, a battery or a hot tub, with a confidence level and an estimated running cost where one can be worked out.
 
 The meter sees the shape of a load, not the appliance. Treat a detected device as a question to ask, not a fact to state. "Do you have something that runs through the night?" is better than "I see you have a hot tub."
+
+!!! course "In your Level 3 manual"
+    - Element 5, *Electricity consumption and running cost*, p68 to 70: typical power ratings and the running cost formula.
+    - Element 5, *The energy efficiency rating of a range of household appliances*, p69: energy labels, for when a replacement is being considered.
+    - Element 3, *The safe use of fuel burning appliances*, p44 to 46: carbon monoxide warning signs. Worth a look whenever you talk about portable or secondary heating.

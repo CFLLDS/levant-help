@@ -17,7 +17,7 @@ You reach it from the **Portal** link in the bar at the top of any page.
 | 7 | Keep the record right | [Property details](property-details.md) and [Time away](time-away.md) |
 | 8 | Share and report | [Evidence and the resident summary](evidence-and-resident-summary.md) |
 
-If you want to understand a particular card or number, see [What the figures mean](what-the-figures-mean.md). If you are stuck, see [The assistant and support](assistant-and-support.md).
+If you want to understand a particular card or number, see [What the figures mean](what-the-figures-mean.md). It points to the matching part of your Level 3 Energy Awareness manual for each card, and [Where this sits in your Level 3](course-map.md) maps the whole portal to the course. If you are stuck, see [The assistant and support](assistant-and-support.md).
 
 ## How far to trust a figure
 
