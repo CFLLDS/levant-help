@@ -1,5 +1,27 @@
 # Your portfolios
 
+<figure class="help-video">
+  <video controls preload="none" playsinline poster="../assets/video/clip-01-your-portfolios.jpg">
+    <source src="../assets/video/clip-01-your-portfolios.mp4" type="video/mp4">
+    Your browser cannot play this video. Read the transcript below.
+  </video>
+  <figcaption>Your portfolios · 1 minute 6 seconds</figcaption>
+</figure>
+
+??? note "Read the transcript"
+    Welcome to Levant. Over the next few short videos I'll show you how to use the adviser portal to get ready for a conversation with a household, and how to record what happened afterwards. We'll start where you start every day, with your portfolios.
+
+    When you sign in, you see one card for each customer in your care. Each card shows how much energy its homes used on the last full day, what that cost, and how many households it holds. Most advisers will see just one card.
+
+    Select Open portfolio to see the households inside.
+
+    At the top of a portfolio are four figures for the whole group: the number of households, and their spend, energy and carbon over the last twelve months.
+
+    Underneath, every household has a card. The buttons let you filter them. Welfare shows homes where something in the pattern of use is worth a check. Settled shows homes where nothing needs you today. The list is sorted by severity, so whoever needs you most is first.
+
+    Select a household to open its advice file. That's where we'll go next.
+
+
 ## The portfolios page
 
 When you open the portal you see one card for each organisation whose households are in your care. Each card shows the energy used on the last full day, that day's spend, and the number of households.
