@@ -1,5 +1,49 @@
 # What the figures mean
 
+<figure class="help-video">
+  <video controls preload="none" playsinline poster="../../assets/video/clip-08-understand-the-home-energy-and-tariff.jpg">
+    <source src="../../assets/video/clip-08-understand-the-home-energy-and-tariff.mp4" type="video/mp4">
+    Your browser cannot play this video. Read the transcript below.
+  </video>
+  <figcaption>Understand the home: energy and tariff · 1 minute 15 seconds</figcaption>
+</figure>
+
+??? note "Read the transcript"
+    Property and usage is the tab to open when you want to understand why. It begins with energy through the year. The dark line is electricity drawn from the grid. You can switch between a year, a quarter and a month.
+
+    The other lines add context. Outside temperature shows you the weather the home was dealing with. If the home exports electricity, or has a temperature sensor indoors, those appear too. In a typical home you'd expect use to rise as the temperature falls.
+
+    The tariff comparison takes this home's real half-hourly use and prices it against published tariffs. The shortest bar is the cheapest. Notice the label: modelled. It's indicative, not a quote, so say "it looks as though", not "you will save".
+
+    Usage by daypart shows when energy is used: overnight, morning, working day and evening. A heavy overnight share can mean storage heating, a heat pump, or as here, a car charging on a cheap night rate.
+
+    Every card on this tab carries one of two labels. Measured means it came straight from the meter. Modelled means the portal worked it out. Both are useful. Only one of them is a fact.
+
+
+<figure class="help-video">
+  <video controls preload="none" playsinline poster="../../assets/video/clip-09-understand-the-home-comfort-solar-and-trend.jpg">
+    <source src="../../assets/video/clip-09-understand-the-home-comfort-solar-and-trend.mp4" type="video/mp4">
+    Your browser cannot play this video. Read the transcript below.
+  </video>
+  <figcaption>Understand the home: comfort, solar and trend · 1 minute 36 seconds</figcaption>
+</figure>
+
+??? note "Read the transcript"
+    If the home has an indoor sensor, Inside the home shows the average and the coldest temperature over the last thirty days. The label tells you at a glance whether the home is holding eighteen degrees or more.
+
+    Cost to heat the home is one of the most useful things on the page. It shows roughly what it costs over a year to keep this home at each temperature, from fifteen degrees to twenty two. The dark tile is where the home is now.
+
+    Use it carefully. It's there to help someone who's cold see that one degree warmer may cost less than they fear. It is never there to persuade anyone to turn their heating down. Your manual covers safe temperatures, and Support mode gives you the page.
+
+    If the home generates electricity, the Solar card shows what the meter actually recorded as exported, and a modelled figure for what the panels are worth in a year.
+
+    Trend and risk compares the last twelve months with the twelve before: usage, cost and carbon.
+
+    This household's rhythm is the welfare signal. The portal learns the home's normal daily pattern and tells you when it changes. Sometimes it tells you it can't watch a home at all. Here, solar panels and a battery hide the daytime pattern from the meter. That isn't a problem with the household. It just means you rely on contact, not on the data.
+
+    Last, devices in this home: the large loads the portal has recognised or been told about, with a confidence label on each. It's a good way into a conversation about what's running, and when.
+
+
 **Tab: Property & usage**
 
 This tab holds the detail behind the advice. You do not need all of it for every call. Use this page to look up a card when you want to understand it or explain it.

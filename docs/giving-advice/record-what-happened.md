@@ -1,5 +1,27 @@
 # Record what happened
 
+<figure class="help-video">
+  <video controls preload="none" playsinline poster="../../assets/video/clip-07-record-what-happened.jpg">
+    <source src="../../assets/video/clip-07-record-what-happened.mp4" type="video/mp4">
+    Your browser cannot play this video. Read the transcript below.
+  </video>
+  <figcaption>Record what happened · 1 minute 21 seconds</figcaption>
+</figure>
+
+??? note "Read the transcript"
+    The Interactions tab is the record of your work with this household, and it's what your funder counts. At the top are this quarter's totals: visits, calls, check-ins and consents.
+
+    Read the line underneath. Check-ins are counted when you use the Check-in button. Calls are counted when you use Contact. Visits, notes and letters you log yourself, further down.
+
+    The start and end survey is four short questions, asked once at the beginning of your work with a household and once at the end. Is the home warm enough? Are the bills manageable? Has the heating been rationed? And how confident do they feel?
+
+    It's the same four questions both times, so the two can be compared. Only a pair counts as an outcome. Prefer not to say is a real answer, and it's recorded as one.
+
+    To log anything else, choose what it was, a visit, a call, a note or a letter, write a line on the outcome, and select Log it. Visits and calls count towards the funder total. Notes and letters don't, unless you tick the box because energy advice was given.
+
+    One last thing. This record is append only. You can add to it, but you can't edit or delete an entry. If you make a mistake, add a note that puts it right.
+
+
 **Tab: Interactions**
 
 If it is not recorded, it did not happen as far as the programme and its funder are concerned. Record every contact on the day.
