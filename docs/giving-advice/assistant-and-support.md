@@ -1,5 +1,21 @@
 # The assistant and support
 
+<figure class="help-video">
+  <video controls preload="none" playsinline poster="../../assets/video/clip-05-ask-the-assistant.jpg">
+    <source src="../../assets/video/clip-05-ask-the-assistant.mp4" type="video/mp4">
+    Your browser cannot play this video. Read the transcript below.
+  </video>
+  <figcaption>Ask the assistant · 34 seconds</figcaption>
+</figure>
+
+??? note "Read the transcript"
+    The Assistant button is at the bottom right of every page. Open it on an advice file and it already knows which household you're looking at.
+
+    You can type your own question, or pick one of the suggestions. What can I tell this customer on this call? What changed since the last contact? Is there anything I should be careful about?
+
+    Two things to remember. The assistant only assists. It never contacts a resident and never changes a record. And every question is logged against your name, so ask it what you'd be happy to ask a colleague.
+
+
 ## The adviser assistant
 
 The **Assistant** button sits at the bottom right of every portal page.

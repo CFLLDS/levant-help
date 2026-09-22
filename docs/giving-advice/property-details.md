@@ -1,5 +1,27 @@
 # Property details
 
+<figure class="help-video">
+  <video controls preload="none" playsinline poster="../../assets/video/clip-06-record-what-you-know-about-the-home.jpg">
+    <source src="../../assets/video/clip-06-record-what-you-know-about-the-home.mp4" type="video/mp4">
+    Your browser cannot play this video. Read the transcript below.
+  </video>
+  <figcaption>Record what you know about the home · 1 minute 19 seconds</figcaption>
+</figure>
+
+??? note "Read the transcript"
+    The Characteristics tab is where you record what you know about the building. It starts with what the home pays: the unit rate and standing charge for each fuel, as supplied. If the home is on a time of use tariff, the portal says so, because a single rate wouldn't tell the true story.
+
+    What we already hold shows the details on file. Below it is the form. Some answers are filled in already from the home's energy certificate. Your job is to confirm what's right and correct what isn't.
+
+    Work down the page with the resident, or as you walk round. Walls, roof and loft, floor, windows and draughts. If you don't know, leave it blank. A blank is honest; a guess makes the model worse.
+
+    Then the heating system and its controls, the usual thermostat setting and how many hours a day the heating runs. These matter most, because they drive the heating cost figures on the next tab.
+
+    The last box is different. Welfare observations are sensitive. You can only record them once the resident has agreed, and you confirm that with the tick box. They are never shown to the resident and never exported.
+
+    When you've finished, select Save capture. The top of the form then shows when it was last captured, and by whom.
+
+
 **Tab: Characteristics**
 
 The better the portal knows the building, the better its heating and cost figures are. Ten minutes on a first visit makes every later figure more useful.
