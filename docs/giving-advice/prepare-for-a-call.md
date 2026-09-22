@@ -1,8 +1,8 @@
 # Prepare for a call or visit
 
 <figure class="help-video">
-  <video controls preload="none" playsinline poster="../assets/video/clip-04-prepare-for-a-call.jpg">
-    <source src="../assets/video/clip-04-prepare-for-a-call.mp4" type="video/mp4">
+  <video controls preload="none" playsinline poster="../../assets/video/clip-04-prepare-for-a-call.jpg">
+    <source src="../../assets/video/clip-04-prepare-for-a-call.mp4" type="video/mp4">
     Your browser cannot play this video. Read the transcript below.
   </video>
   <figcaption>Prepare for a call · 1 minute 22 seconds</figcaption>

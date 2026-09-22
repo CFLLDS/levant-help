@@ -1,8 +1,8 @@
 # Your portfolios
 
 <figure class="help-video">
-  <video controls preload="none" playsinline poster="../assets/video/clip-01-your-portfolios.jpg">
-    <source src="../assets/video/clip-01-your-portfolios.mp4" type="video/mp4">
+  <video controls preload="none" playsinline poster="../../assets/video/clip-01-your-portfolios.jpg">
+    <source src="../../assets/video/clip-01-your-portfolios.mp4" type="video/mp4">
     Your browser cannot play this video. Read the transcript below.
   </video>
   <figcaption>Your portfolios · 1 minute 6 seconds</figcaption>

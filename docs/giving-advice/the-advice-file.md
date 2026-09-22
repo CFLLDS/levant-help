@@ -1,8 +1,8 @@
 # The advice file
 
 <figure class="help-video">
-  <video controls preload="none" playsinline poster="../assets/video/clip-02-the-advice-file-at-a-glance.jpg">
-    <source src="../assets/video/clip-02-the-advice-file-at-a-glance.mp4" type="video/mp4">
+  <video controls preload="none" playsinline poster="../../assets/video/clip-02-the-advice-file-at-a-glance.jpg">
+    <source src="../../assets/video/clip-02-the-advice-file-at-a-glance.mp4" type="video/mp4">
     Your browser cannot play this video. Read the transcript below.
   </video>
   <figcaption>The advice file at a glance · 1 minute 13 seconds</figcaption>
