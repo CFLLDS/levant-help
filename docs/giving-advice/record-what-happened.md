@@ -28,13 +28,13 @@ If it is not recorded, it did not happen as far as the programme and its funder 
 
 ## This quarter
 
-Tiles across the top count this quarter's **Visits**, **Calls**, **Check-ins** and **Consents**, with a **Total**. These four always show, even at zero. Further tiles appear only once they have something in them: **Handyperson**, **Letters**, **Notes**, **Surveys** and **Start/end pairs**.
+Tiles across the top count this quarter's **Visits**, **Calls**, **Check-ins** and **Consents**, with a **Total**. These four always show, even at zero. Further tiles appear only once they have something in them: **Face-to-face advice**, **Email / online advice**, **Handyperson**, **Letters**, **Notes**, **Surveys** and **Start/end pairs**.
 
 - Calls made with **Contact** and texts sent with **Check-in** are counted automatically.
 - Consents are counted when the resident signs during onboarding.
 - Everything else is counted when you log it below.
 
-**What counts toward Total.** Every entry this quarter that was marked as counting toward the funder rollup, plus each completed start and end survey pair. Face-to-face advice and email or online advice have no tile of their own, but they are included in the Total. A survey on its own is shown under **Surveys** but is not added to the Total. Only a **start/end pair** is.
+**What counts toward Total.** Every entry this quarter that was marked as counting toward the funder rollup, plus each completed start and end survey pair. A survey on its own is shown under **Surveys** but is not added to the Total. Only a **start/end pair** is.
 
 ## Log a visit, call, advice, note or letter
 
