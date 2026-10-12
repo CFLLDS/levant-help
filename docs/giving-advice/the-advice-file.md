@@ -39,9 +39,11 @@ Selecting a household opens its advice file. The figures are worked out when you
 | Energy used | Electricity and gas together, in kWh |
 | Carbon | Tonnes of CO₂ from that energy |
 | Comfort & welfare | The current welfare reading |
-| Export earnings | Only where the home exports electricity |
+| Export earnings | Only where the home exports electricity. Shown as **Exported to grid** (or **Exported so far**) in kWh, with "earnings not yet priced", when no export rate is on file yet. The energy is measured; the money cannot be valued until a rate is known |
 
 The small line under each figure says what it is based on, for example "price-cap estimate" or a change against last year.
+
+The headline figures are hidden on the **Characteristics** tab, so the form sits at the top. They come back when you change tab.
 
 ## The five tabs
 
@@ -57,5 +59,6 @@ The small line under each figure says what it is based on, for example "price-ca
 
 - **"These figures were last recalculated on..."** in a banner. The overnight update has not run. Treat the figures as indicative. If the banner says **do not quote them**, do not, and note that the funder pack and resident summary are switched off until it clears.
 - **"This household is taking longer than expected to load."** Wait, or select **Try again**.
+- **"A meter has stopped reporting"** or **"A meter is missing its history"**. The banner names the fuel. This is not something you or the portal can correct. The resident needs to contact their energy supplier and ask them to investigate the meter. Once the supplier has fixed it, the missing readings can be requested again.
 
 Select **Back to portfolio** at the top left to return to the list. Your filter and search are kept.

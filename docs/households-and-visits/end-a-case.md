@@ -20,3 +20,24 @@ There are three different ways to end a case. Choosing the right one matters, be
 3. Under **In your own words**, say what happened, for example "Resident phoned and asked to stop".
 4. Type **YES** in the confirmation box.
 5. Select **Withdraw consent**.
+
+## Cancel the case
+
+Use this only when no consent was ever given.
+
+1. Open the case and select **Withdraw, cancel or remove…**
+2. Under **Cancel this case**, fill in **Why is it being cancelled?**, for example "Raised twice by mistake".
+3. If another case replaces this one, put its reference in **Superseded by (optional)**.
+4. Select **Cancel this case**.
+
+## Remove data
+
+The case must be closed first, by withdrawal or cancellation. Closed cases still appear in the Cases list, so search for it there.
+
+1. Open the case and select **Withdraw, cancel or remove…**
+2. Select **Show me what would be removed** and read the list: what is kept as funder evidence, what has identifying details stripped, and what is deleted.
+3. Fill in **Why is this being removed?**
+4. Type **YES** in **Type YES to confirm**.
+5. Select **Remove it**.
+
+If the page says **Removal is blocked, so there is no Remove button**, some of this household's records cannot be removed from here. Contact LDS support and quote the case reference.

@@ -19,3 +19,5 @@
 5. Select **Raise referral**.
 
 Raise one referral per job. Referrals you have already raised for the case are listed underneath with their outcome. The outcome is reported back by the handyperson service. A completed job also appears on the case as a handyperson visit.
+
+If the job came out of an Energy Confidence call, tick **Raised from an Energy Confidence call** before you send it. That lets the programme count it.

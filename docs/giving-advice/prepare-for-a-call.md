@@ -30,6 +30,11 @@ The Call tab is written to be read in two minutes before you pick up the phone. 
 
 A short paragraph describing the home: how it is heated, where the money goes, and whether the welfare signals are calm.
 
+Sometimes this paragraph is written by AI. It is then headed **AI summary (Spark) — check before using**, with the date it was written, and may be followed by a short list headed **From the AI summary**.
+
+!!! note "Check an AI summary before you use it"
+    Only this opening paragraph is written by AI. Every figure and card below it is worked out by the portal's own rules. Before you repeat anything from the AI summary, check it against the cards underneath. If it says something the figures do not support, leave it out. Note the date too: an older summary may not reflect the latest readings.
+
 ## 2. Measured energy saved
 
 Shown once the household has joined the programme. It compares their use since joining with what would be expected for the weather.
@@ -38,14 +43,14 @@ Shown once the household has joined the programme. It compares their use since j
 |---|---|
 | **Baseline forming**, "too early to measure" | Not enough time has passed. Nothing to report yet |
 | A saving marked significant | Use has dropped by more than chance would explain |
-| **Lower usage, wellbeing check** | Use has dropped **and** there is a welfare flag. Treat the drop as a reason to check in, not as a success. It is only counted as a saving after a wellbeing call confirms the person is warm and well |
+| **Lower usage — wellbeing check**, with a **Wellbeing first** label | Use has dropped **and** there is a welfare flag. Treat the drop as a reason to check in, not as a success. It is only counted as a saving after a wellbeing call confirms the person is warm and well |
 | "Absence review outstanding" | Some quiet days have not been explained yet. See [Time away](time-away.md) |
 
 **Backup for the call** lists what the meter shows, such as when a change started. **Worth raising on the call** lists possible topics such as a heat pump or solar. These are scenarios, not recommendations.
 
-## 3. Things to say on the call
+## 3. Things to say
 
-Up to five prompts, in priority order. Follow them. In particular:
+Sometimes an opening line, then at most three prompts, in priority order. Follow them. In particular:
 
 - **"Do not offer a tariff switch on this data"** means exactly that. There is not enough evidence to name a saving.
 - If it says the priority is a wellbeing call, start and finish there.

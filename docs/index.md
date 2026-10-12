@@ -1,4 +1,4 @@
-# Levant Help Centre
+# Levant™ Help Centre
 
 Guides for advisers, volunteers and coordinators who use the Levant portal and the Energy Confidence tools.
 
