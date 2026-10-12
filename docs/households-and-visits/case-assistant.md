@@ -1,4 +1,4 @@
-# Ask the case assistant
+# Ask the assistant
 
 **Button: Assistant, at the edge of the page**
 

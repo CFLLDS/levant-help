@@ -44,4 +44,4 @@ If you work on Energy Confidence Dorset outreach, you also see three more tabs:
 | [Outreach](outreach.md) | Work through the Charitylog list: letters, call lists and status |
 | [Funnel](funnel.md) | See how the programme is doing against its target of 300 households |
 
-The **Assistant** button opens the [case assistant](case-assistant.md), which answers questions about a case and about how to use this page.
+The **Assistant** button opens the [Case assistant](case-assistant.md), which answers questions about a case and about how to use this page.
