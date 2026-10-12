@@ -28,19 +28,21 @@ If it is not recorded, it did not happen as far as the programme and its funder 
 
 ## This quarter
 
-Tiles across the top count this quarter's **visits**, **calls**, **check-ins**, **consents** and **letters**, with a total.
+Tiles across the top count this quarter's **Visits**, **Calls**, **Check-ins** and **Consents**, with a **Total**. These four always show, even at zero. Further tiles appear only once they have something in them: **Handyperson**, **Letters**, **Notes**, **Surveys** and **Start/end pairs**.
 
 - Calls made with **Contact** and texts sent with **Check-in** are counted automatically.
 - Consents are counted when the resident signs during onboarding.
 - Everything else is counted when you log it below.
 
-## Log a visit, call, note or letter
+**What counts toward Total.** Every entry this quarter that was marked as counting toward the funder rollup, plus each completed start and end survey pair. Face-to-face advice and email or online advice have no tile of their own, but they are included in the Total. A survey on its own is shown under **Surveys** but is not added to the Total. Only a **start/end pair** is.
+
+## Log a visit, call, advice, note or letter
 
 1. Scroll to **Log a visit or note**.
-2. Choose the type: **Visit**, **Call**, **Note** or **Letter**.
+2. Choose the type: **Visit**, **Call**, **Face-to-face advice**, **Email / online advice**, **Note** or **Letter**.
 3. Write what happened. Stick to facts: what was discussed, what was agreed, what you will do next. Do not record health details or opinions about the person.
 4. Check the **Counts toward the funder rollup** box.
-   - Visits and calls are ticked for you, because they are the funded advice activity.
+   - Visits, calls, face-to-face advice and email or online advice are ticked for you, because they are the funded advice activity.
    - Notes and letters are not. Tick the box only if this one was energy advice.
 5. Select **Log it**.
 

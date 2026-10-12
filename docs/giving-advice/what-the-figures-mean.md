@@ -66,19 +66,32 @@ The rates being used and where they came from. See [Property details](property-d
 
 Where the home is on the price cap, the card says roughly how the bill will move when the cap next changes. Where it is on a fixed deal, remember the deal will end.
 
+This card also appears near the top of this tab, just above the tariff comparisons, because its rates are what the comparisons start from.
+
 !!! course "In your Level 3 manual"
     - Element 4, *Interpret domestic fuel cost data*, p48 onwards: unit rates and standing charges.
     - Element 5, *How to calculate the cost of electricity*, p62 to 65, and *How to calculate the cost of gas*, p66 to 67: the same sum the portal does, so you can check a figure against a bill by hand.
     - Element 6, *Types of tariff*, p73: standard variable tariffs and the Ofgem price cap.
 
-## Electricity and gas tariff comparison
+## Electricity tariff comparison and Gas tariff comparison
 
-*Modelled.* This home's own metered use, priced against its current tariff and a small set of published alternatives.
+*Modelled.* Two separate cards, one for each fuel. Each takes this home's own metered use and prices it against its current tariff and a small set of published alternatives.
 
 - The option marked **cheapest in this model** is the lowest of those shown, not the lowest on the market.
 - "**Needs load shifting to achieve**" means the saving only appears if the household moves its use to cheaper hours.
 - "**Priced on 5% of cost**", or any low percentage, means most of the year could not be priced. Treat the comparison as unreliable and do not quote it.
 - These are indicative, not quotes. For a home with part-year data, the figures cover the period recorded.
+- **The price cap.** The card may give the current cap rates for the region, when the cap last changed, and **"Ofgem has set the next cap …"** with the new rates, the date and roughly what it means a year at this home's use.
+- **A cost range.** Sometimes the meter only showed the tariff later, and the portal has applied it back to earlier months. The card then gives a range: what the period cost as priced, and what it would have cost on the supplier's standard variable tariff. Asking the resident when their tariff started settles it.
+
+### How sure are these prices?
+
+A panel at the top of the card shows how this period was priced.
+
+- **The bar** shows how much of the cost came from each source, strongest first: **From supplier bills**, **From the household's bill**, **From the smart meter**, **Estimated** and **Assumed price cap**. The more of the bar that comes from bills or the meter, the firmer the figures.
+- **"…% of half-hours present"** says how complete the readings are for the period.
+- A short sentence says whether that is enough. If it ends **"No switch is recommended from this card until that changes."**, do not offer a switch from this card, even if one option looks cheaper.
+- Sometimes a last line says what would firm it up, for example a recent bill.
 
 !!! course "In your Level 3 manual"
     - Element 6, *Types of tariff*, p73 to 75: standard variable, time of use, prepayment, fixed term and green tariffs, with the benefits and drawbacks of each.
@@ -108,6 +121,10 @@ Where the home is on the price cap, the card says roughly how the bill will move
 
 *Measured.* The split between electricity and gas, or for all-electric homes, how much was used when the grid was cleaner or dirtier.
 
+## The property
+
+*Modelled.* A short summary beside the carbon card: how the home is heated, its fuels, whether the tariff is **Worth reviewing** or the **Current rate fair**, and how detailed and how recent the readings are. It draws on both the meter and the property record, and is only as good as the weaker of the two.
+
 ## Inside the home
 
 *Measured.* Only where a temperature and humidity sensor has been placed. Shows the average and coldest temperature and how many days were measured.
@@ -128,7 +145,14 @@ Where the home is on the price cap, the card says roughly how the bill will move
 
 Use it to show what one degree costs, in either direction. The temperature shown is an average over 24 hours, not a thermostat setting.
 
-If the card says the costs are **withheld** or **not yet checked**, only the differences between temperatures are reliable. Do not quote a yearly heating cost from it.
+If the card carries a **differences only** label, the yearly totals are withheld because the model does not match this home's own gas bill closely enough. Only the differences between temperatures are shown and reliable. If it says **not yet checked**, the costs have not been checked against the meter yet. In either case, do not quote a yearly heating cost from it.
+
+The indoor temperature is marked in one of two ways:
+
+- **stated** means the household told us their thermostat setting. You can treat it as their setting.
+- **derived** means the portal worked out a 24-hour average. It is not a thermostat setting, and it will be lower than the setting in a home that turns the heating off overnight.
+
+Heating times and hours come from cold days only. Once the last cold day is more than a month ago, the card says **"Last winter (N cold days):"** so you know the figures describe last winter, not this week.
 
 !!! warning "Never advise anyone to be cold"
     This card exists to help residents who are under-heating see what comfort would cost, and to find help with that cost. It is not a tool for persuading anyone to turn the heating down below a healthy temperature.
@@ -144,8 +168,8 @@ If the card says the costs are **withheld** or **not yet checked**, only the dif
 *Scenario.* Changes the home has not made.
 
 - The heat pump card compares today's gas heating cost with a heat pump at several efficiencies. The carbon saving is the more dependable part. The money depends heavily on tariff.
-- The solar card estimates the saving from typical rooftop panels, and what a battery of each size would add. It is a rooftop model, not a survey.
-- Where a home **already has** solar, the card is headed **Measured** and shows what was actually exported and earned.
+- The **Solar what-if** card estimates the saving from typical rooftop panels, and what a battery of each size would add. It is a rooftop model, not a survey.
+- Where a home **already generates** electricity, the card is headed **Solar**, labelled **Measured**, and carries a **generating** label. It shows what the meter actually recorded as exported, and what it earned where that is known. Any modelled yearly figure underneath does not replace the measured one.
 
 Raise these as possibilities. Anyone interested should speak to a qualified installer or a specialist adviser before deciding.
 
@@ -154,6 +178,20 @@ Raise these as possibilities. Anyone interested should speak to a qualified inst
     - Element 8, *Smart Export Guarantee (SEG)*, p116: how a home with solar is paid for what it exports, and *Feed-in Tariffs*, p117, for older installations.
     - Element 1, *Boilers and flues*, p15 to 18, and solar water heating, p14: the existing system you are comparing against.
     - Element 8, p104 onwards: the current schemes and who is eligible, including ECO and the Great British Insulation Scheme (p108 to 112) and Warm Homes: Local Grant (p113). Schemes change, so check they are still open.
+
+## Battery on Agile
+
+*Scenario.* What a home battery would save on Octopus Agile, a tariff whose price changes every half hour. The battery charges when prices are low and covers the home when they are high. It does not need solar panels, and the card carries a **no solar needed** label.
+
+- **The row of battery sizes** shows the yearly saving for each size, and roughly how many years it takes to pay back. "no payback" means it would not pay for itself.
+- **The opening sentence** gives the saving for a typical size, and whether it would pay for itself within a 10-year life at typical installation costs.
+- **Switching to Agile without a battery** is shown separately, so you can see how much of the saving is the tariff and how much is the battery.
+- Notes say if the home already has a battery, is already on a tariff with cheap overnight hours, or has less than a year of readings.
+
+It uses last year's usage and prices and assumes the household uses energy exactly as before. It is not a forecast. Raise it as a possibility only, and point anyone interested to a specialist before they decide.
+
+!!! course "In your Level 3 manual"
+    - Element 6, *Types of tariff*, p73 to 75, and *Time of Use*, p74: how time-of-use tariffs work and when moving use to cheaper hours pays.
 
 ## Warmth when it counts
 
@@ -171,15 +209,22 @@ Where a home has a battery, this card cannot be worked out and says so.
 
 ## Wellbeing pattern
 
-*Measured.* The last 14 days of electricity against the home's own normal. It learns a home's usual kinds of day and flags days that do not fit.
+*Measured.* Up to the last 21 days of electricity against the home's own normal, as a strip of coloured squares, one per day. It learns a home's usual kinds of day and flags days that do not fit. A faded square is a day with incomplete readings.
+
+The label at the top of the card gives the latest reading:
 
 | Reading | Meaning |
 |---|---|
 | Normal | In line with this home's usual rhythm |
 | Watch | One unusual day. The portal will raise it if it continues |
+| Quiet | Much less use than usual. Worth checking the person is all right |
 | Shift | The routine has changed and matches none of the usual patterns |
 | High | Much more use than usual. Check nothing has been left on |
 | Unmonitorable | Solar or a battery hides the pattern. Rely on contact |
+
+The key under the strip shows only the kinds of day that appear in it: **Typical**, **Watch**, **Quieter** and **Higher**.
+
+The card names the day it last scored. If readings have stopped, that day may be some time ago.
 
 !!! course "In your Level 3 manual"
     - Element 2, *Recommended temperatures*, p20, and Element 3, p41: the link between cold homes and health, which is why a changed routine matters.

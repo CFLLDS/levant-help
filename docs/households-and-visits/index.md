@@ -23,7 +23,9 @@ The page has three parts, from top to bottom.
 
 **2. The Energy Confidence inbox.** A summary of the shared mailbox: how many messages are unread, how many arrived today, how old the oldest unread message is, and how many unread messages have attachments. If the oldest unread figure is more than a couple of days, somebody needs to clear the inbox.
 
-**3. Six tabs.** Each one is a job you do.
+If the mailbox cannot be read at the moment, this card does not appear. Nothing is wrong with the page.
+
+**3. The tabs.** Each one is a job you do.
 
 | Tab | Use it to |
 |---|---|
@@ -33,3 +35,13 @@ The page has three parts, from top to bottom.
 | [Handyperson](handyperson-referral.md) | Ask the handyperson to do a job, and see what happened to it |
 | [Call backs](call-backs.md) | Return calls from people who rang the phone line |
 | [Consent & evidence](check-consent.md) | Check consent for every household and spot homes sending no data |
+
+If you work on Energy Confidence Dorset outreach, you also see three more tabs:
+
+| Tab | Use it to |
+|---|---|
+| [My calls today](my-calls-today.md) | Ring the households due a call today and record what happened |
+| [Outreach](outreach.md) | Work through the Charitylog list: letters, call lists and status |
+| [Funnel](funnel.md) | See how the programme is doing against its target of 300 households |
+
+The **Assistant** button opens the [case assistant](case-assistant.md), which answers questions about a case and about how to use this page.

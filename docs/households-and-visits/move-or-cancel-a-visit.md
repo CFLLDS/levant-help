@@ -9,7 +9,7 @@
 3. Choose a **Status**: Booked and rearranged, All including cancelled, Completed, or No access.
 4. Choose a **Type**: Assessments and reviews, Assessments only, or Reviews only.
 5. Select **Show**.
-6. Switch between **List**, **Week** and **Month** views. Use the name buttons to show one adviser's visits only.
+6. Switch between **List**, **Week** and **Month** views. Use the name buttons to show one adviser's visits only, and **Everyone** to show them all again. In Week and Month views, **Today**, **←** and **→** move through the calendar.
 
 Each visit shows its time, type, household, address, adviser and status. The statuses are Booked, Moved, Done, Cancelled and No access.
 

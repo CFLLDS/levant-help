@@ -6,7 +6,7 @@
 2. Scroll to **Book a visit**.
 3. Choose the **Date** and **Time**.
 4. **Type** is filled in for you (Assessment for a first visit).
-5. Choose the **Adviser** who is visiting. If they are not listed, choose **Someone not on this list** and type their name.
+5. Choose the **Adviser** who is visiting. If they are not listed, choose **Someone not on this list** and type their name in **Adviser name**.
 6. Select **Check that day**. This shows what else is already booked that day so you can avoid a clash.
 7. Add any **Notes** the adviser needs, such as access instructions.
 8. Select **Book**.

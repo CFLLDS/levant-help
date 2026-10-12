@@ -12,3 +12,5 @@ People who ring the Energy Confidence phone line (01305 231380) or fill in the w
    - **Link to a case** if they already have one, so the contact is on the record. Open the case on the Cases tab first, come back, select **Link to a case** and type what they wanted.
 
 Use the **Show** list to see calls already done, and **Days** to look further back.
+
+A call back marked **No heating right now.** is urgent. Ring that person first.

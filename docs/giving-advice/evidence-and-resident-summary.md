@@ -34,7 +34,7 @@ A summary of this household written for the funder. It is **export-safe**: the h
 
 It sets out who was helped, the problem, the action, the evidence, the outcome, the measured energy saved, the caveats and how fresh the data is. It also states which figures are measured, which are modelled and which are scenarios.
 
-1. Choose the **Quarter**. You can go back seven quarters.
+1. Choose the **Quarter**. You can go back seven quarters. If your organisation reports on a grant's own periods, the list shows those periods in place of calendar quarters, and the one you are in is marked **— current**.
 2. Select **Funder PDF** for the export-safe version, or **Adviser PDF** for your own records.
 
 Read the pack before you send it anywhere. If a statement does not match what you know about the household, do not send it; tell your coordinator.
@@ -45,7 +45,9 @@ Compares households that have been advised with those that have not yet. It stay
 
 ## Quarterly pack
 
-The programme-wide summary for the quarter: homes with a saving, energy and carbon saved, tariff changes, and a plan, do, check, act commentary with commitments for the next quarter.
+The programme-wide summary for the quarter: homes reached with advice, homes with a saving, energy and carbon saved, tariff changes, and a plan, do, check, act commentary with commitments for the next quarter.
+
+**Homes reached with advice** counts each household given energy advice once, however many contacts they had. The large figure is this quarter; the smaller "**N to date**" beside it is the total since the programme began.
 
 - The commentary is drafted automatically from the pack's own figures. **Review it before sending it to a funder.**
 - While the quarter is still open, any export is marked **provisional**. Once finalised, figures and commentary are frozen.
