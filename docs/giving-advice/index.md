@@ -1,6 +1,6 @@
 # Giving advice with the portal
 
-The Levant portal tells you who to talk to, what to talk about, and what the meter shows, before the household has to ask. This section takes you through a working session from start to finish.
+The Levant™ portal tells you who to talk to, what to talk about, and what the meter shows, before the household has to ask. This section takes you through a working session from start to finish.
 
 You reach it from the **Portal** link in the bar at the top of any page.
 
