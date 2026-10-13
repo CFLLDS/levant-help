@@ -2,21 +2,33 @@
 
 **Tab: Funnel**
 
-This tab is for Energy Confidence Dorset outreach. It answers **How are we doing against 300?** Everything is counted by household, not by Charitylog record, and shows numbers only.
+This tab is for Energy Confidence Dorset outreach. Everything is counted by household, not by Charitylog record, and shows numbers only.
 
-## The figures
+## The household funnel
+
+The seven stages at the top are the same counts that go to the steering group, and the same ones the assistant gives when asked about the funnel. They come from one place, so they always agree.
+
+| Stage | Meaning |
+|---|---|
+| In Levant | Case record created, eligibility checked |
+| Contacted | First call made, route agreed |
+| Visit booked | Date agreed, letter sent |
+| Visited | Home visit held, advice given (target 350) |
+| Consented | Time-bound consent per supply |
+| Live and baselined | Data flowing, baseline survey taken (target 300 + 30) |
+| Retained to exit | Exit survey taken (target 230) |
+
+- **Stages are milestones.** A household counts once it reaches a stage or any later one, and still counts if it later declines, opts out or closes. A visit recorded without a booking also counts as booked and contacted.
+- **The count is weekly.** It is dated on a Monday and covers everything up to the end of the Sunday before. **This week** is the change since the Monday before.
+
+## Working list today
 
 | Figure | Meaning |
 |---|---|
-| Advised (of 300) | Households with energy advice recorded, against the target |
-| Consented | Households that have given smart meter consent |
-| Live | Households whose readings are arriving |
 | Letters sent | Households written to |
-| Opted out | Households that asked not to be contacted |
 | Calls due | Follow-up calls waiting to be made |
-| Contacted | Households we have spoken to: they booked a visit, were visited, consented, went live, or said no |
-| Booked | Households with a visit booked |
-| Visited | Households visited |
+| Opted out | Households that asked not to be contacted |
+| Advised, funder count (of 300) | Households with energy advice recorded, the figure that counts towards the 300 for the funder |
 
 ## The tables
 
